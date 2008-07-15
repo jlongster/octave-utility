@@ -1,4 +1,3 @@
-
 ## plot-vector
 ## Big hack to make it easy to represent
 ## vectors as plottable lines
